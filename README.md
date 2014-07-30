@@ -17,7 +17,7 @@ A simple "hello world" example to show how to integrate successfully a Django ap
 ### Installation
 > - Delete all files and folders inside **httpdocs**
 > - Download https://github.com/agarzon/django-plesk-hello-world/archive/master.zip
-> - Unzip and ppload the content in your **httpdocs** folder
+> - Unzip and upload the content in your **httpdocs** folder
 > - Edit plesk.wsgi file to change `domain.com` and set your own domain !
 
 ### License
